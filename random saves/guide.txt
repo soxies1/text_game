@@ -1,0 +1,166 @@
+classes:
+
+mage
+def lvl 1 stats:
+		melee: ranged;
+		strength = 2;
+		agility = 3;
+		intelligence = 8;
+		ranged = 5;
+		health = 20;
+		mana = 20;
+		gold = 100;
+
+warrior 
+def lvl 1 stats:
+		melee: melee;
+		strength = 10;
+		agility = 5;
+		intelligence = 2;
+		ranged = 1;
+		health = 35;
+		mana = 5;
+		gold = 100;
+range
+def lvl 1 stats:
+		melee: ranged;
+		strength = 3;
+		agility = 5;
+		intelligence = 3;
+		ranged = 7;
+		health = 25;
+		mana = 15;
+		gold = 100;
+
+assassin
+def lvl 1 stats:
+		melee: both;
+		strength = 2;
+		agility = 9;
+		intelligence = 2;
+		ranged = 5;
+		health = 30;
+		mana = 10;
+		gold = 100;
+
+
+levels/exp required:          enemies at same lvl give:
+lvl 1 = 0            			5
+lvl 2 = 25						10
+lvl 3 = 125						20	
+lvl 4 = 625						40
+lvl 5 = 3125					80
+lvl 6 = 						160
+
+
+combat guide
+
+combat will consist of a random distance apart depending on location and other factors (eg enemy types).
+range will be an advantage in distant situation, so will speed.
+once it comes to close combat agility and strength will be big players.
+agility will let you get more swings in compared to the enemy doing more damage this will be a randomized factor more agility equals more potential to swing twice
+turns to hit will be randomized so more agility and intellegence means more chance to get a swing in.
+strength will be to to do more damgae per blow and possisble stun factor
+magic can also cause stuns or more vunrability which will be randomized with more intelligence making more change to stun
+range will also increase a chance at head shots and making enemies vunrable to more damage
+
+moves in combat: forward, attack/melee, attack/range, potion
+
+Traveling guide
+
+travel will usually consist of given two paths choose one by situational option you will hit towns 
+where you can buy supplies like weapons and potions
+dungeon paths or treks will be what have the majority of monsters in them.
+these paths will be set amount of moves long and have a set percent random chance of getting attacked per move.
+each type of path will bring specifically themed monsters/opponents. and the odd chance at a treasure chest.
+the game will always end in the same place but how you got there and what its like will be decided by your taken path and decisions.
+per move will also be mana and health regeneration based on percent random with strength and intelligence levels.
+resting in a town will replenish health and mana.
+
+
+
+Items guide
+
+items will be dropped by enemies and it was be randomized what they drop but location and creature specific.
+weapons will boost stats.
+potions will replenish mana and health.
+inventory will be able to hold 20 potions max
+and 5 weapons.
+you can buy potions and weapons in towns or find them.
+
+
+how to play
+
+follow instructions as you go, enter required text when needed.
+
+
+
+advancing options:
+
+look for treasure, look for enemy, look to move/advance, potion all count as a move meaning you can be attacked.
+
+you can equip weapons anytime no move cost
+
+
+
+
+
+locations and factors:
+
+Land: 					enemies: 			lvls:			melee or range:			
+swamp				swamp goblins			1				melee
+					killer rats				1				melee
+					needle shooter plants	1				ranged
+					
+mountain			bear					2				melee
+					killer birds			1				melee
+					cougars					2				melee
+					
+forest				archer goblins			2				ranged
+					small game hunters		1				both
+					cougar cubs				1				melee			
+
+
+
+short Story:
+ - you live in a world of magic
+ - where an oppressive ruler named Lord Draxdes terrorizes the lands
+ - you live in an isolated land unaffected by his rule
+ - but one day your neigbor city is attacked and your father is called in for back up
+ - he doesnt return, but has left you a note saying you must become a champion of the lands and leaves you his (class specific) weapon
+ - to do so he sends you too your uncles in a kingdom south of here to train and start your quest
+ - on your way there you are ambushed, and yu run through the forset 
+
+
+Save order
+
+name
+class
+melee
+level
+experience
+strength
+agility
+intelligence
+ranged
+health
+chealth
+mana
+cmana
+gold
+enemies defeated
+hpotions
+mpotions
+has activate special
+special
+actspecial
+
+
+
+
+
+
+
+
+
+
